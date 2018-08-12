@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool_weather"/>
+    <version value=""/>
+    <list>
+        <mapping class="com.lancer.dell.coolweather.db.Province"/>
+        <mapping class="com.lancer.dell.coolweather.db.City"/>
+        <mapping class="com.lancer.dell.coolweather.db.Country"/>
+    </list>
+</litepal>
