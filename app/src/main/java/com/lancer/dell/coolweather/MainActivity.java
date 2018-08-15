@@ -1,7 +1,8 @@
 package com.lancer.dell.coolweather;
 
-import android.app.Activity;
+
 import android.os.Bundle;
+import android.app.Activity;
 
 public class MainActivity extends Activity {
 
